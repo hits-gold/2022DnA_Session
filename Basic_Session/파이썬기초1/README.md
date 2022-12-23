@@ -1,1 +1,1 @@
-- (발표 영상)[https://www.youtube.com/watch?v=JkZxUs3pYyw]
+- [발표 영상](https://www.youtube.com/watch?v=JkZxUs3pYyw)
