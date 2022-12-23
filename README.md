@@ -7,5 +7,5 @@
   
 ### 활동 내역 (세션 파트 및 영상)
   - Basic Session : [파이썬 기초1](https://www.youtube.com/watch?v=JkZxUs3pYyw) | [파이썬 기초2](https://www.youtube.com/watch?v=ReLmHguUi0E)
-  - Machine Session : 회귀 모델
+  - ML Session : 회귀 모델
   - Deep Session : [Attention - Transformer - Bert](https://www.youtube.com/watch?v=PpY10OmTebc)
