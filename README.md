@@ -5,7 +5,7 @@
   - Deep Session : 딥러닝 이론 및 기초
   - [학회 홈페이지](https://cms.kookmin.ac.kr/kmu-dna/index.do) | [인스타그램](https://www.instagram.com/kmu_dna/) | [페이스북](https://www.facebook.com/kookmin.bigdata.dna2013/)
   
-### 활동 내역 (세션 파트 및 발표영상)
+### 활동 내역 (세션 파트)
   - Basic Session : [파이썬 기초1](https://www.youtube.com/watch?v=JkZxUs3pYyw) | [파이썬 기초2](https://www.youtube.com/watch?v=ReLmHguUi0E)
   - ML Session : 회귀 모델
   - Deep Session : [Attention - Transformer - Bert](https://www.youtube.com/watch?v=PpY10OmTebc)
